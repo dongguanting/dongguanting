@@ -50,8 +50,8 @@
 
 
 🧠 掌握技能
-&emsp;&emsp;
 
+&emsp;&emsp;
 ![C++](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
@@ -93,10 +93,6 @@
   <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dongguanting&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div> 
 
-<h1 align="center">🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</h1>
-
-<!-- just img 图片 -->
-<div align="center"><img width="36%" src="https://cdn.jsdelivr.net/gh/dongguanting/dongguanting/assets/images/githubgif.gif" /></div>
 
 
 <!-- just img 图片 -->
