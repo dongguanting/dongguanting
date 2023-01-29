@@ -1,12 +1,30 @@
-<h1 align="center">Hi 👋, I'm Guanting Dong :trophy:</h1>
-<h3 align="center">A Gradate Student from China</h3>
+<!-- dynamic typing effect 动态打字效果 -->
+<h1 align="center">
+  <a href="https://blog.sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;小孙同学祝您今天愉快!&center=true&size=27" />
+  </a>
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dongguanting&label=Profile%20views&color=0e75b6&style=flat" alt="dongguanting" /> </p>
+<!-- knock code pictures 敲代码的图片 -->
+<div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /></div><br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dongguanting" alt="dongguanting" /></a> </p>
+<!-- profile logo 个人资料徽标 -->
+<div align="center">
+  <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/website-博客-blue" /></a>&emsp;
+  <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/twitter-推特-blue" /></a>&emsp;
+  <a href="https://www.facebook.com/profile.php?id=100070064104265/"><img src="https://img.shields.io/badge/facebook-脸书-003472" /></a>&emsp;
+  <a href="https://www.youtube.com/channel/UC4nDk0V8I1c6m3CIo0F2LIQ"><img src="https://img.shields.io/badge/youtube-油管-c32136" /></a>&emsp;
+  <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+  <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/bilibili-B站-ff69b4" /></a>&emsp;
+  <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/zhihu-知乎-blue" /></a>&emsp;
+<!-- visitor statistics logo 访客数统计徽标 -->
+  <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" alt="访客统计" /></div>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badg" alt="" /></a> </p>
-<span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" /></div>
+
+<!-- Self introduction 自我介绍 -->
+#  🙋 Hello
 
 - 🔭 I’m currently studying in **Beijing University of Posts and Telecommunications**
 
