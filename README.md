@@ -41,9 +41,6 @@
 
 - ⚡ Fun fact **Basketball:basketball:, LOL**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
