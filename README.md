@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Guanting Dong</h1>
+<h1 align="center">Hi 👋, I'm Guanting Dong :trophy:</h1>
 <h3 align="center">A Gradate Student from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dongguanting&label=Profile%20views&color=0e75b6&style=flat" alt="dongguanting" /> </p>
@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [dongguanting.github.io](dongguanting.github.io)
 
-- ⚡ Fun fact **Basketball, LOL**
+- ⚡ Fun fact **Basketball:basketball:, LOL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
