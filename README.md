@@ -1,7 +1,7 @@
 <!-- dynamic typing effect 动态打字效果 -->
 <h1 align="center">
   <a href="https://blog.sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;小董同学祝您今天愉快!&center=true&size=27" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;Wishing Mr. Dong happy every day!&center=true&size=27" />
   </a>
 </h1>
 
@@ -44,7 +44,7 @@
 <!--  skill badge 技能徽章 -->
 
 
-- 🧠 掌握技能
+- 🧠 Coding Skills
 
 &emsp;&emsp;
 ![C++](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
@@ -56,7 +56,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
 ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
 
-- 🧰 常用的工具
+- 🧰 Using Tools
 
 &emsp;&emsp; 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
