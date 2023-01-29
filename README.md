@@ -41,15 +41,10 @@
 
 - ⚡ Fun fact **Basketball:basketball:, LOL**
 
-
-
-<!-- just img 图片-->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
-
 <!--  skill badge 技能徽章 -->
 
 
-🧠 掌握技能
+- 🧠 掌握技能
 
 &emsp;&emsp;
 ![C++](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
@@ -61,7 +56,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
 ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
 
-🧰 常用的工具
+- 🧰 常用的工具
 
 &emsp;&emsp; 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
@@ -74,6 +69,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
 </div>
+
+<!-- just img 图片-->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
+
+
 
 
 
