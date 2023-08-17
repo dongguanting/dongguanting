@@ -14,8 +14,6 @@
   <a href="https://space.bilibili.com/15390675?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/bilibili-B站-ff69b4" /></a>&emsp;
   <a href="https://www.zhihu.com/people/e8d3f0103b6db48b44a5aa6cda05b6a4"><img src="https://img.shields.io/badge/zhihu-知乎-blue" /></a>&emsp;
   
-<!-- visitor statistics logo 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" alt="访客统计" /></div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" /></div>
