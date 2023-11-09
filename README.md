@@ -35,8 +35,8 @@
 
 - 📫 How to reach me **dongguanting@126.com**
 
-- 📄 Know about my experiences [dongguanting_cv.github.io](dongguanting_cv.github.io)
+- 📄 Know about my newest research [https://scholar.google.com/citations?user=amozZDkAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=amozZDkAAAAJ&hl=en&oi=ao)
 
-- ⚡ Fun fact **Basketball:basketball:, LOL**
+- ⚡ Fun fact **Basketball:basketball:, Pokemon**
 
 
