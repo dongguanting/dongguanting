@@ -62,8 +62,26 @@ My research interests focus on Information Extration, Information Retrieval and 
 11. Revisit Out-Of-Vocabulary Problem For Slot Filling: A Unified Contrastive Framework With Multi-Level Data Augmentations
 
     Daichi Guo, **Guanting Dong**, Dayuan Fu, Yuxiang Wu, Chen Zeng, Tingfeng Hui, Liwen Wang, Xuefeng Li, Zechen Wang, Keqing He, Xinyue Cui, Weiran Xu
-   
-   **ICASSP 2023** [paper](https://ieeexplore.ieee.org/abstract/document/10094766/)
+
+    **ICASSP 2023** [paper](https://ieeexplore.ieee.org/abstract/document/10094766/)
+    
+13. Exploiting domain-slot related keywords description for Few-Shot Cross-Domain Dialogue State Tracking
+ 
+    Gao Qixiang, **Guanting Dong**, Yutao Mou, Liwen Wang, Chen Zeng, Daichi Guo, Mingyang Sun, Weiran Xu
+    
+    **Findings of EMNLP 2022** [paper](https://aclanthology.org/2022.emnlp-main.157.pdf)
+    
+14. Entity-level Interaction via Heterogeneous Graph for Multimodal Named Entity Recognition
+ 
+    Gang Zhao, **Guanting Dong**, Yidong Shi, Haolong Yan, Weiran Xu, Si Li
+    
+    **Findings of EMNLP 2022** [paper](https://aclanthology.org/2022.findings-emnlp.473.pdf)
+    
+16. PSSAT: A Perturbed Semantic Structure Awareness Transferring Method for Perturbation-Robust Slot Filling
+
+    **Guanting Dong**, Daichi Guo, Liwen Wang, Xuefeng Li, Zechen Wang, Chen Zeng, Keqing He, Jinzheng Zhao, Hao Lei, Xinyue Cui, Yi Huang, Junlan Feng, Weiran Xu
+    
+    **COLING 2023** [paper](https://aclanthology.org/2022.coling-1.473/)
    
 # 🎖 Competitions and Awards
 
