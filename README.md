@@ -23,10 +23,10 @@ My research interests focus on Information Extration, Information Retrieval and 
 
    **Guanting Dong**, Tingfeng Hui, Zhuoma GongQue, Jinxu Zhao, Daichi Guo, Gang Zhao, Keqing He, Weiran Xu
    
-   **EMNLP 2023 Findings**   [paper](https://arxiv.org/abs/2306.10315)
+   **Findings of EMNLP 2023**   [paper](https://aclanthology.org/2023.findings-emnlp.705.pdf) [code](https://github.com/dongguanting/Demo-NSF)
 2. Semantic Parsing by Large Language Models for Intricate Updating Strategies of Zero-Shot Dialogue State Tracking
 
-   **Weihao Zeng**, Lulu Zhao, Keqing He, Ruotong Geng, Jingang Wang, Wei Wu, Weiran Xu
+   Yuxiang Wu*, **Guanting Dong***, Weiran Xu
    
    **ACL 2023 Main Conference**   [paper](https://arxiv.org/abs/2306.10317)
 
