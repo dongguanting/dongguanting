@@ -33,7 +33,7 @@ My research interests focus on Information Extration, Information Retrieval and 
 3. A Multi-Task Semantic Decomposition Framework with Task-specific Pre-training for Few-Shot NER
    
    **Guanting Dong**, Zechen Wang, Jinxu Zhao, Gang Zhao, Daichi Guo, Dayuan Fu, Tingfeng Hui, Chen Zeng, Keqing He, Xuefeng Li, Liwen Wang, Xinyue Cui, Weiran Xu
-   **CIKM 2023 (Oral Presentation)**   [paper](https://dl.acm.org/doi/abs/10.1145/3583780.3614766) [code](https://github.com/ToLightUpTheSky/ParsingDST)
+   **CIKM 2023 (Oral Presentation)**   [paper](https://dl.acm.org/doi/abs/10.1145/3583780.3614766) [code](https://github.com/dongguanting/MSDP-Fewshot-NER)
    
 5. Bridging the KB-Text Gap: Leveraging Structured Knowledge-aware Pre-training for KBQA
 
@@ -41,11 +41,11 @@ My research interests focus on Information Extration, Information Retrieval and 
    
    **CIKM 2023** [paper](https://dl.acm.org/doi/abs/10.1145/3583780.3615150) [code](https://github.com/dongguanting/SKP-for-KBQA)
    
-6. Domain-Oriented Prefix-Tuning: Towards Efficient and Generalizable Fine-tuning for Zero-Shot Dialogue Summarization
+6. Revisit Input Perturbation Problems for LLMs: A Unified Robustness Evaluation Framework for Noisy Slot Filling Task
 
-   Lulu Zhao, Fujia Zheng, **Weihao Zeng**, Keqing He, Weiran Xu, Huixing Jiang, Wei Wu, Yanan Wu
+   **Guanting Dong**, Jinxu Zhao, Tingfeng Hui, Daichi Guo, Wenlong Wang, Boqi Feng, Yueyan Qiu, Zhuoma Gongque, Keqing He, Zechen Wang, Weiran Xu
    
-   **NAACL 2022** [paper](https://aclanthology.org/2022.naacl-main.357.pdf)
+   **NLPCC 2023 (Oral Presentation)** [paper](https://link.springer.com/chapter/10.1007/978-3-031-44693-1_53)
    
 7. Give the Truth: Incorporate Semantic Slot into Abstractive Dialogue Summarization
 
