@@ -7,7 +7,7 @@
 
 #  🙋 About Me
 I am a final year Master's student at the Pattern Recognition and Intelligent System Laboratory([PRIS-NLP](https://pris-nlp.github.io/en/#hero)), Beijing University of Posts and Telecommunications (BUPT), advised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/). 
-My research interests focus on Information Extration, Information Retrieval and large language modeling. Previously, I obtained my Bachelor's degree from the college of information and communication engineering, BUPT. I was research intern at Meituan(Knowledge Graph Grouup) in 2022 and Alibaba Damo Acedemy(M6 Group) in 2023.
+My research interests focus on Information Extration, Information Retrieval and large language modeling. Previously, I obtained my Bachelor's degree from the college of information and communication engineering, BUPT. I was research intern at Meituan (Knowledge Graph Grouup) in 2022 and Alibaba Damo Acedemy (M6 Group) in 2023.
 
 
 # 🔥 News
@@ -17,13 +17,14 @@ My research interests focus on Information Extration, Information Retrieval and 
 - **2023-08**: 🏆🏆 Two papers have been accepted by CIKM 2023, Looking forward to seeing you all in Birmingham, UK!
 
 # 📝 Selected Publications 
+(* denotes equal contributions)
 
-1. FutureTOD: Teaching Future Knowledge to Pre-trained Language Model for Task-Oriented Dialogue
+1. DemoNSF: A Multi-task Demonstration-based Generative Framework for Noisy Slot Filling Task
 
-   **Weihao Zeng**, Keqing He, Yejie Wang, Chen Zeng, Jingang Wang, Yunsen Xian, Weiran Xu
+   **Guanting Dong**, Tingfeng Hui, Zhuoma GongQue, Jinxu Zhao, Daichi Guo, Gang Zhao, Keqing He, Weiran Xu
    
-   **ACL 2023 Main Conference**   [paper](https://arxiv.org/abs/2306.10315)
-2. Seen to Unseen: Exploring Compositional Generalization of Multi-Attribute Controllable Dialogue Generation
+   **EMNLP 2023 Findings**   [paper](https://arxiv.org/abs/2306.10315)
+2. Semantic Parsing by Large Language Models for Intricate Updating Strategies of Zero-Shot Dialogue State Tracking
 
    **Weihao Zeng**, Lulu Zhao, Keqing He, Ruotong Geng, Jingang Wang, Wei Wu, Weiran Xu
    
