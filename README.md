@@ -45,19 +45,25 @@ My research interests focus on Information Extration, Information Retrieval and 
 
    **Guanting Dong**, Jinxu Zhao, Tingfeng Hui, Daichi Guo, Wenlong Wang, Boqi Feng, Yueyan Qiu, Zhuoma Gongque, Keqing He, Zechen Wang, Weiran Xu
    
-   **NLPCC 2023 (Oral Presentation)** [paper](https://link.springer.com/chapter/10.1007/978-3-031-44693-1_53)
+   **NLPCC 2023 (Oral Presentation)** [paper](https://link.springer.com/chapter/10.1007/978-3-031-44693-1_53) [code](https://github.com/dongguanting/Noise-Slot-Filling-LLM)
    
-7. Give the Truth: Incorporate Semantic Slot into Abstractive Dialogue Summarization
+7. Generative Zero-Shot Prompt Learning for Cross-Domain Slot Filling with Inverse Prompting
 
-   Lulu Zhao, **Weihao Zeng**, Weiran Xu, Jun Guo
+   Xuefeng Li, Liwen Wang, **Guanting Dong**, Keqing He, Jinzheng Zhao, Hao Lei, Jiachi Liu, Weiran Xu
    
-   **EMNLP 2021** [paper](https://pdfs.semanticscholar.org/bbc4/08a278613621e107b2d3caff06edbd688d80.pdf?_gl=1*qle2t2*_ga*MTY2NzMzNzY4Ny4xNjc5ODg1NDQ3*_ga_H7P4ZT52H5*MTY4MTYzNTMwNC4zNC4xLjE2ODE2MzY4MTMuMC4wLjA.)
+   **Findings of ACL 2023** [paper](https://aclanthology.org/2023.findings-acl.52/) [code](https://github.com/LiXuefeng2020ai/GZPL)
    
-8. TODSum: Task-Oriented Dialogue Summarization with State Tracking
+9. A Prototypical Semantic Decoupling Method via Joint Contrastive Learning for Few-Shot Named Entity Recognition
 
-   Lulu Zhao, Fujia Zheng, Keqing He, **Weihao Zeng**, Yuejie Lei, Huixing Jiang, Wei Wu, Weiran Xu, Jun Guo, Fanyu Meng
+   Guanting Dong, Zechen Wang, Liwen Wang, Daichi Guo, Dayuan Fu, Yuxiang Wu, Chen Zeng, Xuefeng Li, Tingfeng Hui, Keqing He, Xinyue Cui, Qixiang Gao, Weiran Xu
+
+   **ICASSP 2023** [paper](https://ieeexplore.ieee.org/abstract/document/10095149)
+
+11. Revisit Out-Of-Vocabulary Problem For Slot Filling: A Unified Contrastive Framework With Multi-Level Data Augmentations
+
+    Daichi Guo, **Guanting Dong**, Dayuan Fu, Yuxiang Wu, Chen Zeng, Tingfeng Hui, Liwen Wang, Xuefeng Li, Zechen Wang, Keqing He, Xinyue Cui, Weiran Xu
    
-   **Arxiv 2022** [paper](https://arxiv.org/pdf/2110.12680.pdf)
+   **ICASSP 2023** [paper](https://ieeexplore.ieee.org/abstract/document/10094766/)
    
 # 🎖 Competitions and Awards
 
