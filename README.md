@@ -78,7 +78,7 @@ My research interests focus on Information Extration, Information Retrieval and 
  
     Gang Zhao, **Guanting Dong**, Yidong Shi, Haolong Yan, Weiran Xu, Si Li
     
-    **Findings of EMNLP 2022** [paper](https://aclanthology.org/2022.findings-emnlp.473.pdf)
+    **Findings of EMNLP 2022** [paper](https://aclanthology.org/2022.findings-emnlp.473.pdf) [code](https://github.com/GangZhao98/GEI)
     
 16. PSSAT: A Perturbed Semantic Structure Awareness Transferring Method for Perturbation-Robust Slot Filling
 
@@ -98,7 +98,7 @@ My research interests focus on Information Extration, Information Retrieval and 
 
     Shanglin Lei,** Guanting Dong**, Xiaoping Wang, Keheng Wang, Sirui Wang
     
-    **Arxiv** [paper](https://arxiv.org/pdf/2309.11911.pdf)
+    **Arxiv** [paper](https://arxiv.org/pdf/2309.11911.pdf) [code](https://github.com/LIN-SHANG/InstructERC)
 
    
 # 🎖 Competitions and Awards
