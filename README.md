@@ -5,19 +5,18 @@
   </a>
 </h1>
 
-#  🙋 Hello
+#  🙋 About Me
 I am a Master's student at the Pattern Recognition and Intelligent System Laboratory([PRIS-NLP](https://pris-nlp.github.io/en/#hero)), Beijing University of Posts and Telecommunications (BUPT), advised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/). 
 My research interests focus on Information Extration, Information Retrieval and large language modeling. Previously, I obtained my Bachelor's degree from the college of information and communication engineering, BUPT. I was research intern at Knowledge Graph Grouup, Meituan in 2022 and M6 Group, Alibaba Damo Acedemy.
 
 
 # 🔥 News
 
-- **2023-05**: 🎉🎉 Two paper have been accepted by ACL 2023!
-- **2022-10**: 🎉🎉 One paper has been accepted at the SereTOD 2022 Workshop, EMNLP 2022!
-- **2022-09**: 🏆🏆 Achieved the 1st rank on SereTOD 2022 track 2, EMNLP 2022!
-- **2022-05**: 🎉🎉 One paper is accepted by SIGIR 2022!
+- **2023-12**: 🎉🎉 Two papers have been accepted by ICASSP 2024!
+- **2023-10**: 🎉🎉 One paper has been accepted at the EMNLP 2023!
+- **2023-08**: 🏆🏆 Two papers have been accepted by CIKM 2023, Looking forward to seeing you all in Birmingham, UK!
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 1. FutureTOD: Teaching Future Knowledge to Pre-trained Language Model for Task-Oriented Dialogue
 
