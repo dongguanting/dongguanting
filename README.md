@@ -86,8 +86,8 @@ My research interests focus on Information Extration, Information Retrieval and 
     
     **COLING 2023** [paper](https://aclanthology.org/2022.coling-1.473/)
 
-🌱 Preprint Highlight
-(1st/co-1st/2nd author's paper)
+# 🌱 Highlight Preprint
+
 1. How abilities in large language models are affected by supervised fine-tuning data composition
 
     **Guanting Dong**, Hongyi Yuan, Keming Lu, Chengpeng Li, Mingfeng Xue, Dayiheng Liu, Wei Wang, Zheng Yuan, Chang Zhou, Jingren Zhou
