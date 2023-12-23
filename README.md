@@ -33,6 +33,7 @@ My research interests focus on Information Extration, Information Retrieval and 
 3. A Multi-Task Semantic Decomposition Framework with Task-specific Pre-training for Few-Shot NER
    
    **Guanting Dong**, Zechen Wang, Jinxu Zhao, Gang Zhao, Daichi Guo, Dayuan Fu, Tingfeng Hui, Chen Zeng, Keqing He, Xuefeng Li, Liwen Wang, Xinyue Cui, Weiran Xu
+   
    **CIKM 2023 (Oral Presentation)**   [paper](https://dl.acm.org/doi/abs/10.1145/3583780.3614766) [code](https://github.com/dongguanting/MSDP-Fewshot-NER)
    
 5. Bridging the KB-Text Gap: Leveraging Structured Knowledge-aware Pre-training for KBQA
@@ -84,34 +85,7 @@ My research interests focus on Information Extration, Information Retrieval and 
     **COLING 2023** [paper](https://aclanthology.org/2022.coling-1.473/)
    
 # 🎖 Competitions and Awards
-
+- **2023-09**: 🏆🏆 National Scholarship for Master Students, BUPT.
+- **2023-09**: 🏆🏆 Outstanding Graduate
+- **2022，2023**: 🏆🏆 Excellent First-class Scholarship for Master Students, BUPT.(Two times)
 - **2022-09**: 🏆🏆 Achieved the 1st Award on [SereTOD Challenge 2022](http://seretod.org/Challenge.html) track 2, EMNLP 2022!
-- **2021-08**: 🏆🏆 Achieved the 4th Award on [SMP 2021](https://conference.cipsc.org.cn/smp2021/) Conversational AI Challenge!
-- **2021-09**: 🏆🏆 Achieved the 8th Place on [CCIR 2021](https://www.datafountain.cn/competitions/511/ranking?isRedance=1&sch=1793&stage=B)  Intelligent NLU Challenge!
-
-
-
-
-
-<!-- Self introduction 自我介绍 -->
-#  🙋 Hello
-
-- 🔭 Master student in **Beijing University of Posts and Telecommunications**
-
-- 🌱 Forcus on **NLP**, Especially Large language modeling, Information Extraction, Task-oriented Dialog system  .
-
-- 👯 I’m looking to collaborate on **NLP research**
-
-- 🤝 I’m looking for help with **NLPer**
-
-- 👨‍💻 All of my projects are available at [dongguanting.github.com](dongguanting.github.com)
-
-- 📝 I regularly write articles on [https://www.zhihu.com/people/dong-ge-da-niao-zou-si-fang](https://www.zhihu.com/people/dong-ge-da-niao-zou-si-fang)
-
-- 📫 How to reach me **dongguanting@126.com**
-
-- 📄 Know about my newest research [https://scholar.google.com/citations?user=amozZDkAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=amozZDkAAAAJ&hl=en&oi=ao)
-
-- ⚡ Fun fact **Basketball:basketball:, Pokemon**
-
-
