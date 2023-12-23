@@ -104,8 +104,8 @@ My research interests focus on Information Extration, Information Retrieval and 
 # 🎖 Competitions and Awards
 
 - **2023-09**: 🏆🏆 National Scholarship for Master Students, BUPT.
-- **2023-09**: 🏆🏆 Outstanding Graduate
-- **2022，2023**: 🏆🏆 Excellent First-class Scholarship for Master Students, BUPT.(Two times)
+- **2023-09**: 🏆🏆 Outstanding Graduate of Master Students, BUPT.
+- **2022，2023**: 🏆🏆 Excellent First-class Scholarship for Master Students, BUPT. (Two times)
 - **2022-09**: 🏆🏆 Achieved the 1st Award on [SereTOD Challenge 2022](http://seretod.org/Challenge.html) track 2, EMNLP 2022!
 
 # 🤝 Contact Me
