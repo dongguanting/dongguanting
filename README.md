@@ -5,18 +5,8 @@
   </a>
 </h1>
 
-
-<!-- profile logo 个人资料徽标 -->
-<div align="center">
-  <a href="https://blog.csdn.net/dongguanting?spm=1010.2135.3001.5343"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-  <a href="https://space.bilibili.com/15390675?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/bilibili-B站-ff69b4" /></a>&emsp;
-  <a href="https://www.zhihu.com/people/e8d3f0103b6db48b44a5aa6cda05b6a4"><img src="https://img.shields.io/badge/zhihu-知乎-blue" /></a>&emsp;
-  
-
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" /></div>
-
-I am a Master's student at the Pattern Recognition and Intelligent System Laboratory([PRIS-NLP](https://pris-nlp.github.io/en/#hero)), Beijing University of Posts and Telecommunications, advised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/). Previously, I obtained my Bachelor's degree from the Mathematics Department of the same university. My research interests include text generation, dialogue pre-training, and task-oriented dialogue systems. I have published several papers at top conferences, including ACL, SIGIR, EMNLP, and NAACL.
+#  🙋 Hello
+I am a Master's student at the Pattern Recognition and Intelligent System Laboratory([PRIS-NLP](https://pris-nlp.github.io/en/#hero)), Beijing University of Posts and Telecommunications (BUPT), advised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/). Previously, I obtained my Bachelor's degree from the Communicatiing enginering, BUPT. My research interests include text generation, dialogue pre-training, and task-oriented dialogue systems. I have published several papers at top conferences, including ACL, SIGIR, EMNLP, and NAACL.
 
 # 🔥 News
 
