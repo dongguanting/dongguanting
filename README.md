@@ -30,7 +30,7 @@ My research interests focus on Information Extration, Information Retrieval and 
 
    Yuxiang Wu, **Guanting Dong**, Weiran Xu
    
-   **Findings of EMNLP 2023**   [paper](https://arxiv.org/abs/2306.10317) [code](https://github.com/ToLightUpTheSky/ParsingDST)
+   **Findings of EMNLP 2023**   [paper](https://aclanthology.org/2023.findings-emnlp.741/) [code](https://github.com/ToLightUpTheSky/ParsingDST)
 
 3. A Multi-Task Semantic Decomposition Framework with Task-specific Pre-training for Few-Shot NER
    
