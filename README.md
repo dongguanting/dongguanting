@@ -1,7 +1,7 @@
 <!-- dynamic typing effect 动态打字效果 -->
 <h1 align="center">
   <a href="https://blog.sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines= Progres step by step!;祝KABI同学科研顺利，天天开心!&center=true&size=27" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Progress%2C%20step by\ step!;祝KABI同学科研顺利，天天开心!&center=true&size=27" />
   </a>
 </h1>
 
