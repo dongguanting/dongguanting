@@ -6,6 +6,7 @@
 </h1>
 
 #  🙋 About Me
+
 I am a final year Master's student at the Pattern Recognition and Intelligent System Laboratory([PRIS-NLP](https://pris-nlp.github.io/en/#hero)), Beijing University of Posts and Telecommunications (BUPT), advised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/). 
 My research interests focus on Information Extration, Information Retrieval and large language modeling. Previously, I obtained my Bachelor's degree from the college of information and communication engineering, BUPT. I was research intern at Meituan (Knowledge Graph Grouup) in 2022 and Alibaba Damo Acedemy (M6 Group) in 2023.
 
@@ -16,8 +17,9 @@ My research interests focus on Information Extration, Information Retrieval and 
 - **2023-10**: 🎉🎉 One paper has been accepted at the EMNLP 2023!
 - **2023-08**: 🏆🏆 Two papers have been accepted by CIKM 2023, Looking forward to seeing you all in Birmingham, UK!
 
-# 📝 Selected Publications 
-(* denotes equal contributions)
+# 📝 Selected Publications
+
+(1st/co-1st/2nd author's paper)
 
 1. DemoNSF: A Multi-task Demonstration-based Generative Framework for Noisy Slot Filling Task
 
@@ -83,9 +85,29 @@ My research interests focus on Information Extration, Information Retrieval and 
     **Guanting Dong**, Daichi Guo, Liwen Wang, Xuefeng Li, Zechen Wang, Chen Zeng, Keqing He, Jinzheng Zhao, Hao Lei, Xinyue Cui, Yi Huang, Junlan Feng, Weiran Xu
     
     **COLING 2023** [paper](https://aclanthology.org/2022.coling-1.473/)
+
+🌱 Preprint Highlight
+(1st/co-1st/2nd author's paper)
+1. How abilities in large language models are affected by supervised fine-tuning data composition
+
+    **Guanting Dong**, Hongyi Yuan, Keming Lu, Chengpeng Li, Mingfeng Xue, Dayiheng Liu, Wei Wang, Zheng Yuan, Chang Zhou, Jingren Zhou
+    
+    **Arxiv** [paper](https://arxiv.org/pdf/2310.05492.pdf)
+   
+2. InstructERC: Reforming Emotion Recognition in Conversation with a Retrieval Multi-task LLMs Framework
+
+    Shanglin Lei,** Guanting Dong**, Xiaoping Wang, Keheng Wang, Sirui Wang
+    
+    **Arxiv** [paper](https://arxiv.org/pdf/2309.11911.pdf)
+
    
 # 🎖 Competitions and Awards
+
 - **2023-09**: 🏆🏆 National Scholarship for Master Students, BUPT.
 - **2023-09**: 🏆🏆 Outstanding Graduate
 - **2022，2023**: 🏆🏆 Excellent First-class Scholarship for Master Students, BUPT.(Two times)
 - **2022-09**: 🏆🏆 Achieved the 1st Award on [SereTOD Challenge 2022](http://seretod.org/Challenge.html) track 2, EMNLP 2022!
+
+# 🤝 Contact Me
+
+- dongguanting@bupt.edu.cn
