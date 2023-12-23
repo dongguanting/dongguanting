@@ -14,7 +14,7 @@ My research interests focus on Information Extration, Information Retrieval and 
 # 🔥 News
 
 - **2023-12**: 🎉🎉 Two papers have been accepted by ICASSP 2024!
-- **2023-10**: 🎉🎉 One paper has been accepted at the EMNLP 2023!
+- **2023-10**: 🎉🎉 Three paper has been accepted at the EMNLP 2023!
 - **2023-08**: 🏆🏆 Two papers have been accepted by CIKM 2023, Looking forward to seeing you all in Birmingham, UK!
 
 # 📝 Selected Publications
