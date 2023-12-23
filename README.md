@@ -96,7 +96,7 @@ My research interests focus on Information Extration, Information Retrieval and 
    
 2. InstructERC: Reforming Emotion Recognition in Conversation with a Retrieval Multi-task LLMs Framework
 
-    Shanglin Lei,** Guanting Dong**, Xiaoping Wang, Keheng Wang, Sirui Wang
+    Shanglin Lei,**Guanting Dong**, Xiaoping Wang, Keheng Wang, Sirui Wang
     
     **Arxiv** [paper](https://arxiv.org/pdf/2309.11911.pdf) [code](https://github.com/LIN-SHANG/InstructERC)
 
