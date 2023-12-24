@@ -36,7 +36,7 @@ My research interests focus on Information Extration, Information Retrieval and 
    
    **Guanting Dong**, Zechen Wang, Jinxu Zhao, Gang Zhao, Daichi Guo, Dayuan Fu, Tingfeng Hui, Chen Zeng, Keqing He, Xuefeng Li, Liwen Wang, Xinyue Cui, Weiran Xu
    
-   **CIKM 2023 (Oral Presentation)**   [paper](https://dl.acm.org/doi/abs/10.1145/3583780.3614766) [code](https://github.com/dongguanting/MSDP-Fewshot-NER)
+   **CIKM 2023 (Oral)**   [paper](https://dl.acm.org/doi/abs/10.1145/3583780.3614766) [code](https://github.com/dongguanting/MSDP-Fewshot-NER)
    
 5. Bridging the KB-Text Gap: Leveraging Structured Knowledge-aware Pre-training for KBQA
 
@@ -48,13 +48,13 @@ My research interests focus on Information Extration, Information Retrieval and 
 
    **Guanting Dong**, Jinxu Zhao, Tingfeng Hui, Daichi Guo, Wenlong Wang, Boqi Feng, Yueyan Qiu, Zhuoma Gongque, Keqing He, Zechen Wang, Weiran Xu
    
-   **NLPCC 2023 (Oral Presentation)** [paper](https://link.springer.com/chapter/10.1007/978-3-031-44693-1_53) [code](https://github.com/dongguanting/Noise-Slot-Filling-LLM)
+   **NLPCC 2023 (Oral)** [paper](https://arxiv.org/pdf/2310.06504.pdf) [code](https://github.com/dongguanting/Noise-Slot-Filling-LLM)
    
 7. Generative Zero-Shot Prompt Learning for Cross-Domain Slot Filling with Inverse Prompting
 
    Xuefeng Li, Liwen Wang, **Guanting Dong**, Keqing He, Jinzheng Zhao, Hao Lei, Jiachi Liu, Weiran Xu
    
-   **Findings of ACL 2023** [paper](https://aclanthology.org/2023.findings-acl.52/) [code](https://github.com/LiXuefeng2020ai/GZPL)
+   **Findings of ACL 2023** [paper](https://aclanthology.org/2023.findings-acl.52.pdf) [code](https://github.com/LiXuefeng2020ai/GZPL)
    
 9. A Prototypical Semantic Decoupling Method via Joint Contrastive Learning for Few-Shot Named Entity Recognition
 
@@ -72,7 +72,7 @@ My research interests focus on Information Extration, Information Retrieval and 
  
     Gao Qixiang, **Guanting Dong**, Yutao Mou, Liwen Wang, Chen Zeng, Daichi Guo, Mingyang Sun, Weiran Xu
     
-    **Findings of EMNLP 2022** [paper](https://aclanthology.org/2022.emnlp-main.157.pdf)
+    **EMNLP 2022（Oral）** [paper](https://aclanthology.org/2022.emnlp-main.157.pdf)
     
 14. Entity-level Interaction via Heterogeneous Graph for Multimodal Named Entity Recognition
  
@@ -84,11 +84,11 @@ My research interests focus on Information Extration, Information Retrieval and 
 
     **Guanting Dong**, Daichi Guo, Liwen Wang, Xuefeng Li, Zechen Wang, Chen Zeng, Keqing He, Jinzheng Zhao, Hao Lei, Xinyue Cui, Yi Huang, Junlan Feng, Weiran Xu
     
-    **COLING 2023** [paper](https://aclanthology.org/2022.coling-1.473/)
+    **COLING 2022** [paper](https://aclanthology.org/2022.coling-1.473.pdf)
 
 # 🌱 Highlight Preprint
 
-1. How abilities in large language models are affected by supervised fine-tuning data composition
+1. How Abilities in Large Language Models are Affected by Supervised Fine-tuning Data Composition
 
     **Guanting Dong**, Hongyi Yuan, Keming Lu, Chengpeng Li, Mingfeng Xue, Dayiheng Liu, Wei Wang, Zheng Yuan, Chang Zhou, Jingren Zhou
     
