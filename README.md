@@ -30,7 +30,7 @@ My research interests focus on Information Extration, Information Retrieval and 
 
    Yuxiang Wu, **Guanting Dong**, Weiran Xu
    
-   **Findings of EMNLP 2023**   [paper](https://aclanthology.org/2023.findings-emnlp.741/) [code](https://github.com/ToLightUpTheSky/ParsingDST)
+   **Findings of EMNLP 2023**   [paper](https://aclanthology.org/2023.findings-emnlp.741.pdf) [code](https://github.com/ToLightUpTheSky/ParsingDST)
 
 3. A Multi-Task Semantic Decomposition Framework with Task-specific Pre-training for Few-Shot NER
    
@@ -40,7 +40,7 @@ My research interests focus on Information Extration, Information Retrieval and 
    
 5. Bridging the KB-Text Gap: Leveraging Structured Knowledge-aware Pre-training for KBQA
 
-   Lulu Zhao, Fujia Zheng, **Weihao Zeng**, Keqing He, Ruotong Geng, Huixing Jiang, Wei Wu, Weiran Xu
+   **Guanting Dong**, Rumei Li, Sirui Wang, Yupeng Zhang, Yunsen Xian, Weiran Xu
    
    **CIKM 2023** [paper](https://dl.acm.org/doi/abs/10.1145/3583780.3615150) [code](https://github.com/dongguanting/SKP-for-KBQA)
    
@@ -103,8 +103,8 @@ My research interests focus on Information Extration, Information Retrieval and 
    
 # 🎖 Competitions and Awards
 
-- **2023-09**: 🏆🏆 National Scholarship for Master Students, BUPT.
-- **2023-09**: 🏆🏆 Outstanding Graduate of Master Students, BUPT.
+- **2023-09**: 🏆🏆 National Scholarship for Master Students(Top 1%), BUPT.
+- **2023-09**: 🏆🏆 Outstanding Graduate of Master Students(Top 5%), BUPT.
 - **2022，2023**: 🏆🏆 Excellent First-class Scholarship for Master Students, BUPT. (Two times)
 - **2022-09**: 🏆🏆 Achieved the 1st Award on [SereTOD Challenge 2022](http://seretod.org/Challenge.html) track 2, EMNLP 2022!
 
