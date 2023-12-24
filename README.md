@@ -36,7 +36,7 @@ My research interests focus on Information Extration, Information Retrieval and 
    
    **Guanting Dong**, Zechen Wang, Jinxu Zhao, Gang Zhao, Daichi Guo, Dayuan Fu, Tingfeng Hui, Chen Zeng, Keqing He, Xuefeng Li, Liwen Wang, Xinyue Cui, Weiran Xu
    
-   **CIKM 2023 (Oral)**   [paper](https://dl.acm.org/doi/abs/10.1145/3583780.3614766) [code](https://github.com/dongguanting/MSDP-Fewshot-NER)
+   **CIKM 2023 (Oral)**   [paper](https://arxiv.org/pdf/2308.14533.pdf) [code](https://github.com/dongguanting/MSDP-Fewshot-NER)
    
 5. Bridging the KB-Text Gap: Leveraging Structured Knowledge-aware Pre-training for KBQA
 
