@@ -28,7 +28,7 @@ Here is my homepage： [Homepage](https://dongguanting.github.io/)
 # 📝 Selected Publications
 
 <details>
-<summary>展开查看</summary>
+<summary>Show more details</summary>
 <pre><code>
 
 (1st/co-1st/2nd author's paper)
@@ -107,7 +107,7 @@ Here is my homepage： [Homepage](https://dongguanting.github.io/)
 # 🌱 Highlight Preprint
 
 <details>
-<summary>展开查看</summary>
+<summary>Show more details</summary>
 <pre><code>
 
 1. How Abilities in Large Language Models are Affected by Supervised Fine-tuning Data Composition
