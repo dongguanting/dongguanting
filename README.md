@@ -20,16 +20,16 @@ Here is my homepage： [Homepage](https://dongguanting.github.io/)
 - **2023-08**: 🏆🏆 Two papers have been accepted by CIKM 2023, Looking forward to seeing you all in Birmingham, UK!
 
 
-<details>
-<summary>展开查看</summary>
-<pre><code>
-System.out.println("Hello to see U!");
-</code></pre>
-</details>
+
+
 
 
 
 # 📝 Selected Publications
+
+<details>
+<summary>展开查看</summary>
+<pre><code>
 
 (1st/co-1st/2nd author's paper)
 
@@ -98,7 +98,17 @@ System.out.println("Hello to see U!");
     
     **COLING 2022** [paper](https://aclanthology.org/2022.coling-1.473.pdf)
 
+
+</code></pre>
+</details>
+
+
+
 # 🌱 Highlight Preprint
+
+<details>
+<summary>展开查看</summary>
+<pre><code>
 
 1. How Abilities in Large Language Models are Affected by Supervised Fine-tuning Data Composition
 
@@ -111,6 +121,9 @@ System.out.println("Hello to see U!");
     Shanglin Lei,**Guanting Dong**, Xiaoping Wang, Keheng Wang, Sirui Wang
     
     **Arxiv** [paper](https://arxiv.org/pdf/2309.11911.pdf) [code](https://github.com/LIN-SHANG/InstructERC)
+
+</code></pre>
+</details>
 
    
 # 🎖 Competitions and Awards
