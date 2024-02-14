@@ -29,7 +29,7 @@ Here is my homepage： [Homepage](https://dongguanting.github.io/)
 
 <details>
 <summary>Show more details</summary>
-<pre><code>
+
 
 (1st/co-1st/2nd author's paper)
 
@@ -99,7 +99,7 @@ Here is my homepage： [Homepage](https://dongguanting.github.io/)
     **COLING 2022** [paper](https://aclanthology.org/2022.coling-1.473.pdf)
 
 
-</code></pre>
+
 </details>
 
 
@@ -108,7 +108,7 @@ Here is my homepage： [Homepage](https://dongguanting.github.io/)
 
 <details>
 <summary>Show more details</summary>
-<pre><code>
+
 
 1. How Abilities in Large Language Models are Affected by Supervised Fine-tuning Data Composition
 
@@ -122,7 +122,7 @@ Here is my homepage： [Homepage](https://dongguanting.github.io/)
     
     **Arxiv** [paper](https://arxiv.org/pdf/2309.11911.pdf) [code](https://github.com/LIN-SHANG/InstructERC)
 
-</code></pre>
+
 </details>
 
 
@@ -131,13 +131,13 @@ Here is my homepage： [Homepage](https://dongguanting.github.io/)
 
 <details>
 <summary>Show more details</summary>
-<pre><code>
+
   
 - **2023-09**: 🏆🏆 National Scholarship for Master Students(Top 1%), BUPT.
 - **2023-09**: 🏆🏆 Outstanding Graduate of Master Students(Top 5%), BUPT.
 - **2022，2023**: 🏆🏆 Excellent First-class Scholarship for Master Students, BUPT. (Two times)
 - **2022-09**: 🏆🏆 Achieved the 1st Award on [SereTOD Challenge 2022](http://seretod.org/Challenge.html) track 2, EMNLP 2022!
-</code></pre>
+
 </details>
 
 # 🤝 Contact Me
