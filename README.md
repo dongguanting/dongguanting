@@ -125,13 +125,20 @@ Here is my homepage： [Homepage](https://dongguanting.github.io/)
 </code></pre>
 </details>
 
+
    
 # 🎖 Competitions and Awards
 
+<details>
+<summary>Show more details</summary>
+<pre><code>
+  
 - **2023-09**: 🏆🏆 National Scholarship for Master Students(Top 1%), BUPT.
 - **2023-09**: 🏆🏆 Outstanding Graduate of Master Students(Top 5%), BUPT.
 - **2022，2023**: 🏆🏆 Excellent First-class Scholarship for Master Students, BUPT. (Two times)
 - **2022-09**: 🏆🏆 Achieved the 1st Award on [SereTOD Challenge 2022](http://seretod.org/Challenge.html) track 2, EMNLP 2022!
+</code></pre>
+</details>
 
 # 🤝 Contact Me
 
