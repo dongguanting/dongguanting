@@ -7,8 +7,9 @@
 
 #  🙋 About Me
 
-I am a final-year Master's student at the Pattern Recognition and Intelligent System Laboratory([PRIS-NLP](https://pris-nlp.github.io/en/#hero)), Beijing University of Posts and Telecommunications (BUPT), advised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/). 
-My research interests focus on Information Extration, Information Retrieval and large language modeling. Previously, I obtained my Bachelor's degree from the college of information and communication engineering, BUPT. I was research intern at Meituan NLP center (Knowledge Graph Grouup) in 2022 and Alibaba Qwen Team in 2023.
+I am a final-year Master's student at the Pattern Recognition and Intelligent System Laboratory([PRIS-NLP](https://pris-nlp.github.io/en/#hero)), Beijing University of Posts and Telecommunications (BUPT), advised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/). Previously, I obtained my Bachelor's degree from the college of information and communication engineering, BUPT. I was research intern at Meituan NLP center (Knowledge Graph Grouup) in 2022 and Alibaba Qwen Team in 2023.
+
+My research interests focus on **Information Extration**, **Information Retrieval**, **Large Language Modeling and Reasoning**.
 
 Details can be found in my homepage： [Homepage](https://dongguanting.github.io/)
 
