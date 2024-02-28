@@ -7,9 +7,9 @@
 
 #  🙋 About Me
 
-I am a final-year Master's student at the ([PRIS-NLP](https://pris-nlp.github.io/en/#hero)), Beijing University of Posts and Telecommunications (BUPT), advised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/). Previously, I obtained my Bachelor's degree (2017-2021,communication engineering) from BUPT. 
+I am a final-year Master's student at the ([PRIS-NLP](https://pris-nlp.github.io/en/#hero)), Beijing University of Posts and Telecommunications (BUPT), advised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/). Previously, I obtained my Bachelor's degree (2017-2021, Communicating Engineering) from BUPT. 
 
-I was research intern at Meituan NLP center (2021.09-2022.06) and Alibaba Qwen Team (2023.06-Present).
+I am also currently an research intern Alibaba Qwen Team (2023.06-Present), Before this, I was research intern at Meituan NLP center (2021.09-2022.06).
 
 My research interests focus on **Information Extration**, **Information Retrieval**, **Large Language Modeling and Reasoning**.
 
