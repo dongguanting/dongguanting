@@ -14,7 +14,9 @@ I am also currently an research intern Alibaba Qwen Team (2023.06-Present), Befo
 Currently, My research interests focus on
 
 **Information Extration and Retrieval**
+
 **Reasoning and Alignment for Mathematics, Code and Knowledge Graph**
+
 **Interpretability and Robustness for Large Language Models**
 
 Details can be found in my homepage： [Homepage](https://dongguanting.github.io/)
