@@ -11,7 +11,11 @@ I am a final-year Master's student at the [PRIS-NLP Lab](https://pris-nlp.github
 
 I am also currently an research intern Alibaba Qwen Team (2023.06-Present), Before this, I was research intern at Meituan NLP center (2021.09-2022.06).
 
-My research interests focus on **Information Extration**, **Information Retrieval**, **Large Language Modeling and Reasoning**.
+Currently, My research interests focus on
+
+**Information Extration and Retrieval**
+**Reasoning and Alignment for Mathematics, Code and Knowledge Graph**
+**Interpretability and Robustness for Large Language Models**
 
 Details can be found in my homepage： [Homepage](https://dongguanting.github.io/)
 
