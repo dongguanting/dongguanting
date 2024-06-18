@@ -4,7 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Working%20step%20by%20step!;祝KABI与Tracy工作顺利，天天开心!&center=true&size=27" />
   </a>
 </h1>
-https://scholar.google.com/citations?user=tbxCHJgAAAAJ&hl=zh-CN&oi=ao
 
 #  🙋 About Me
 
