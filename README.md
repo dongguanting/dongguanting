@@ -7,9 +7,7 @@
 
 #  🙋 About Me
 
-I am a 24 Fall in-coming Ph.D. student at the Gaoling School of Artificial Intelligence, Renmin University of China, fortunate to be co-advised by [Prof. Zhicheng Dou](http://playbigdata.ruc.edu.cn/dou/) and [Prof. Ji-Rong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ&hl=zh-CN&oi=ao). Previously, I received M.Eng (2024) and B.Eng (2021) degrees in Information and Communication Engineering from Beijing University of Posts and Telecommunications(BUPT), advised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/).
-
-I am also currently an research intern Alibaba Qwen Team (2023.06-Present), Before this, I was research intern at Meituan NLP center (2021.09-2022.06).
+I am a 24 Fall in-coming Ph.D. student at the Gaoling School of Artificial Intelligence, Renmin University of China, fortunate to be co-advised by [Prof. Zhicheng Dou](http://playbigdata.ruc.edu.cn/dou/) and [Prof. Ji-Rong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ&hl=zh-CN&oi=ao). Previously, I received M.Eng (2024) and B.Eng (2021) degrees in Information and Communication Engineering from Beijing University of Posts and Telecommunications(BUPT), advised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/). Before this, I was research intern at Alibaba Qwen Team and Meituan NLP center.
 
 Currently, My research interests focus on
 
@@ -17,16 +15,12 @@ Currently, My research interests focus on
 
 * **Alignment for Large Language Models**
 
-Details can be found in my homepage： [Homepage](https://dongguanting.github.io/)
 
 
 # 🔥 News
-- **2023-05**: 🎉🎉 Four paper have been accepted by ACL 2024! Looking forward to seeing you in Bangkok!
-- **2023-03**: 🎉🎉 one paper have been accepted by NAACL 2024!
-- **2023-12**: 🎉🎉 Two papers have been accepted by ICASSP 2024!
-- **2023-10**: 🎉🎉 Three paper has been accepted at the EMNLP 2023!
-- **2023-08**: 🏆🏆 Two papers have been accepted by CIKM 2023, Looking forward to seeing you all in Birmingham, UK!
 
+- **2023-06**: I will close external platforms like Google Scholar and my personal homepage to focus deeply on my research in Ph.D. career.
+- I look forward to a better version of myself in the future.
 
 
 # 🤝 Contact Me
