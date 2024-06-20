@@ -24,4 +24,4 @@ Currently, My research interests focus on
 
 # 🤝 Contact Me
 
-- dongguanting@bupt.edu.cn
+- dongguanting@126.com
