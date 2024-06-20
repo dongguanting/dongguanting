@@ -19,8 +19,7 @@ Currently, My research interests focus on
 
 # 🔥 News
 
-- **2023-06**: I will close external platforms like Google Scholar and my personal homepage to focus deeply on my research in Ph.D. career.
-- I look forward to a better version of myself in the future.
+- **2023-06**: I will close external platforms like “Google Scholar” and “personal homepage” to focus deeply on my research in Ph.D. career. I look forward to a better version of myself in the future.
 
 
 # 🤝 Contact Me
