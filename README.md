@@ -16,6 +16,8 @@ Currently, My research interests focus on
 
 * **Alignment for Large Language Models**
 
+* **Multi-Modal Modeling**
+
 
 
 # 🔥 News
