@@ -12,11 +12,11 @@ I am a 24 Fall in-coming Ph.D. student at the Gaoling School of Artificial Intel
 
 Currently, My research interests focus on
 
-* **Information Extration and Retrieval**
+* **Information Extration**
 
 * **Alignment for Large Language Models**
 
-* **Multi-Modal Modeling**
+* **Retrieval Augmented Generation**
 
 
 
