@@ -20,8 +20,7 @@ Currently, My research interests focus on
 
 # 🔥 News
 
-- **2023-06**: I close my external platforms like “Google Scholar” and “personal homepage” to focus deeply on my research in Ph.D. career. I look forward to a better version of myself in the future.
-
+- **2023-09**: Glad to be a Ph.D. studentt at GSAI, Renmin University of China.
 
 # 🤝 Contact Me
 
