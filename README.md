@@ -18,10 +18,17 @@ Currently, My research interests focus on
 
 * **Large Language Models Reasoning**
 
+Here is my [personal page](dongguanting.github.io)
+
+
 # 🔥 News
 
-- **2023-09**: Glad to be a Ph.D. studentt at GSAI, Renmin University of China.
+- **2024-09**:🎉🎉 Glad to be a Ph.D. student at GSAI, Renmin University of China.
 
+- **2024-07**:🎉🎉 We release our technical report of Qwen2 . a large-scale language model developed by Alibaba Group.
+
+- **2024-05**:🎉🎉 Four paper have been accepted by ACL 2024! Looking forward to seeing you in Bangkok!
+  
 # 🤝 Contact Me
 
 - dongguanting@ruc.edu.cn
