@@ -31,4 +31,7 @@ Here is my [personal page](https://dongguanting.github.io/)
   
 # 🤝 Contact Me
 
+Feel free to email me for any form of academic cooperation!
+
 - dongguanting@ruc.edu.cn
+
