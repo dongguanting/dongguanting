@@ -14,9 +14,9 @@ Currently, My research interests focus on
 
 * **Alignment for Large Language Models**
 
-* **Retrieval Augmented Generation**
+* **Multi-Modal Retrieval Augmented Generation**
 
-* **Multi-Modal Learning**
+* **Large Language Models Reasoning**
 
 # 🔥 News
 
