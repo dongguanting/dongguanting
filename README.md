@@ -25,6 +25,8 @@ Here is my [personal page](https://dongguanting.github.io/)
 
 - **2024-09**:🎉🎉 Glad to be a Ph.D. student at GSAI, Renmin University of China.
 
+- **2024-09**:🎉🎉 Two papers have been accepted by EMNLP 2024!.
+
 - **2024-07**:🎉🎉 We release our technical report of Qwen2 . a large-scale language model developed by Alibaba Group.
 
 - **2024-05**:🎉🎉 Four paper have been accepted by ACL 2024! Looking forward to seeing you in Bangkok!
