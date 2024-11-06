@@ -21,6 +21,13 @@ Currently, My research interests focus on
 Here is my [personal page](https://dongguanting.github.io/)
 
 
+#  📎 Homepages
+
+* Personal Page: [https://dongguanting.github.io/](https://dongguanting.github.io/)
+* 
+* Google Scholar: [https://scholar.google.com/citations?user=amozZDkAAAAJ&hl=en](https://scholar.google.com/citations?user=amozZDkAAAAJ&hl=en)
+
+
 # 🔥 News
 
 - **2024-09**:🎉🎉 Glad to be a Ph.D. student at GSAI, Renmin University of China.
