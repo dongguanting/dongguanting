@@ -2,7 +2,7 @@
 <h1 align="center">
   <a href="https://blog.sunguoqi.com/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=
-      Researching%20step%20by%20step!;祝KABI与Tracy工作顺利，天天开心!&center=true&size=27" />
+      Researching%20step%20by%20step!;祝KABI工作顺利，天天开心!&center=true&size=27" />
   </a>
 </h1>
 
