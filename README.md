@@ -18,8 +18,6 @@ Currently, My research interests focus on
 
 * **Large Language Models Reasoning**
 
-Here is my [personal page](https://dongguanting.github.io/)
-
 
 #  📎 Homepages
 
