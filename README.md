@@ -24,7 +24,6 @@ Here is my [personal page](https://dongguanting.github.io/)
 #  📎 Homepages
 
 * Personal Page: [https://dongguanting.github.io/](https://dongguanting.github.io/)
-* 
 * Google Scholar: [https://scholar.google.com/citations?user=amozZDkAAAAJ&hl=en](https://scholar.google.com/citations?user=amozZDkAAAAJ&hl=en)
 
 
