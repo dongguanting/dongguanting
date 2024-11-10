@@ -18,7 +18,7 @@ Currently, My research interests focus on
 
 * **Large Language Models Reasoning**
 
-My long-term goal is to work towards achieving scalable, secure, and verifiable AGI.
+My long-term goal is to explore an automated, scalable, and safe way that fosters exceptional intelligence to achieve **AGI**.
 
 #  📎 Homepages
 
