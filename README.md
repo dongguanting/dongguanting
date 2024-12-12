@@ -28,7 +28,7 @@ My long-term goal is to explore an automated, scalable, and safe way that foster
 
 # 🔥 News
 
-- **2024-09**:🎉🎉 One paper has been accepted by AAAI 2025!.
+- **2024-09**:🎉🎉 One paper has been accepted by AAAI 2025!
 
 - **2024-09**:🎉🎉 Glad to be a Ph.D. student at GSAI, Renmin University of China.
 
