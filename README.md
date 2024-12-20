@@ -28,7 +28,9 @@ My long-term goal is to explore an automated, scalable, and safe way that foster
 
 # 🔥 News
 
-- **2024-09**:🎉🎉 One paper has been accepted by AAAI 2025!
+- **2024-12**:🎉🎉 Very honored to be a contributor to the Qwen2.5 , a series of LLMs designed to meet diverse needs!
+
+- **2024-12**:🎉🎉 One paper has been accepted by AAAI 2025!
 
 - **2024-09**:🎉🎉 Glad to be a Ph.D. student at GSAI, Renmin University of China.
 
