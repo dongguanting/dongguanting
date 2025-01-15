@@ -20,11 +20,13 @@ Currently, My research interests focus on
 
 My long-term goal is to explore an automated, scalable, and safe way that fosters exceptional intelligence to achieve **AGI**.
 
+
+<!--
 #  📎 Homepages
 
 * Personal Page: [https://dongguanting.github.io/](https://dongguanting.github.io/)
 * Google Scholar: [https://scholar.google.com/citations?user=amozZDkAAAAJ&hl=en](https://scholar.google.com/citations?user=amozZDkAAAAJ&hl=en)
-
+-->
 
 # 🔥 News
 
