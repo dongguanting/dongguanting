@@ -30,17 +30,21 @@ My long-term goal is to explore an automated, scalable, and safe way that foster
 
 # 🔥 News
 
-- **2024-12**:🎉🎉 Very honored to be a contributor to the Qwen2.5 , a series of LLMs designed to meet diverse needs!
-
+<!--
+- **2024-12**:🎉🎉 Very honored to be a contributor to the Qwen2.5, a series of LLMs designed to meet diverse needs!
+-->
 - **2024-12**:🎉🎉 One paper has been accepted by AAAI 2025!
 
 - **2024-09**:🎉🎉 Glad to be a Ph.D. student at GSAI, Renmin University of China.
 
 - **2024-09**:🎉🎉 Two papers have been accepted by EMNLP 2024!.
-
+<!--
 - **2024-07**:🎉🎉 We release our technical report of Qwen2, a large-scale language model developed by Alibaba Group.
-
+-->
 - **2024-05**:🎉🎉 Four paper have been accepted by ACL 2024! Looking forward to seeing you in Bangkok!
+
+
+
   
 # 🤝 Contact Me
 
