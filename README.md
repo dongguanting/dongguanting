@@ -26,13 +26,12 @@ My long-term goal is to explore an automated, scalable, and safe way that foster
 
 * Personal Page: [https://dongguanting.github.io/](https://dongguanting.github.io/)
 * Google Scholar: [https://scholar.google.com/citations?user=amozZDkAAAAJ&hl=en](https://scholar.google.com/citations?user=amozZDkAAAAJ&hl=en)
--->
+
 
 # 🔥 News
 
-<!--
 - **2024-12**:🎉🎉 Very honored to be a contributor to the Qwen2.5, a series of LLMs designed to meet diverse needs!
--->
+
 - **2025-01**:🎉🎉 One paper has been accepted by WWW 2025!
 
 - **2024-12**:🎉🎉 One paper has been accepted by AAAI 2025!
@@ -44,7 +43,7 @@ My long-term goal is to explore an automated, scalable, and safe way that foster
 - **2024-07**:🎉🎉 We release our technical report of Qwen2, a large-scale language model developed by Alibaba Group.
 -->
 - **2024-05**:🎉🎉 Four papers have been accepted by ACL 2024! Looking forward to seeing you in Bangkok!
-
+-->
 
   
 # 🤝 Contact Me
