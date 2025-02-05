@@ -16,7 +16,7 @@ Currently, My research interests focus on
 
 * **Large Language Models Reasoning**
 
-* **Multi-Modal Retrieval Augmented Generation**
+* **Retrieval Augmented Generation**
 
 My long-term goal is to explore an automated, scalable, and safe way that fosters exceptional intelligence to achieve **AGI**.
 
