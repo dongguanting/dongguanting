@@ -12,11 +12,11 @@ I am a first-year Ph.D. student at the Gaoling School of Artificial Intelligence
 
 Currently, My research interests focus on
 
-* **Alignment for Large Language Models**
+* **Alignment for Large Language Models**: Data Composition([DMT](https://arxiv.org/pdf/2310.05492)), Instruction Following([AUTOIF](https://arxiv.org/pdf/2406.13542),[IC-IFD](https://arxiv.org/pdf/2412.11231))
 
-* **Large Language Models Reasoning**: Mathmatical Reasoning([RFT](https://arxiv.org/pdf/2308.01825), [MuggleMath](https://arxiv.org/abs/2310.05506), [DotaMath](https://arxiv.org/pdf/2407.04078)), Code Generation([DolphCoder](https://arxiv.org/pdf/2402.09136),[XCoder](https://arxiv.org/pdf/2409.03810)), Multimodal Reasoning ([AR-MCTS](https://arxiv.org/pdf/2412.14835),[We-Math](https://arxiv.org/pdf/2407.01284?)), Scientific Reasoning ([CS-Bench](https://arxiv.org/pdf/2406.08587)), Tool-Integrated Reasoning ([Search-o1](https://arxiv.org/pdf/2501.05366))
+* **Large Language Models Reasoning**: Mathmatical Reasoning([RFT](https://arxiv.org/pdf/2308.01825),[MuggleMath](https://arxiv.org/abs/2310.05506),[DotaMath](https://arxiv.org/pdf/2407.04078)), Code Generation([DolphCoder](https://arxiv.org/pdf/2402.09136),[XCoder](https://arxiv.org/pdf/2409.03810)), Multimodal Reasoning([AR-MCTS](https://arxiv.org/pdf/2412.14835),[We-Math](https://arxiv.org/pdf/2407.01284?)), Scientific Reasoning([CS-Bench](https://arxiv.org/pdf/2406.08587)), Tool-Integrated Reasoning([Search-o1](https://arxiv.org/pdf/2501.05366))
 
-* **Retrieval Augmented Generation**
+* **Retrieval Augmented Generation** 
 
 My long-term goal is to explore an automated, scalable, and safe way that fosters exceptional intelligence to achieve **AGI**.
 
