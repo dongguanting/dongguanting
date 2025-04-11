@@ -14,7 +14,7 @@ Currently, My research interests focus on
 
 * **Alignment for Large Language Models**
 
-* **Large Language Models Reasoning**
+* **Large Language Models Reasoning** :Mathmatical Reasoning([RFT](https://arxiv.org/pdf/2308.01825), [MuggleMath](https://arxiv.org/abs/2310.05506),[DotaMath](https://arxiv.org/pdf/2407.04078))
 
 * **Retrieval Augmented Generation**
 
