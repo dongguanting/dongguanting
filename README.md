@@ -16,7 +16,7 @@ Currently, My research interests focus on
 
 * **Large Language Models Reasoning**: Mathmatical Reasoning([RFT](https://arxiv.org/pdf/2308.01825),[MuggleMath](https://arxiv.org/abs/2310.05506),[DotaMath](https://arxiv.org/pdf/2407.04078)), Code Generation([DolphCoder](https://arxiv.org/pdf/2402.09136),[XCoder](https://arxiv.org/pdf/2409.03810)), Multimodal Reasoning([AR-MCTS](https://arxiv.org/pdf/2412.14835),[We-Math](https://arxiv.org/pdf/2407.01284?)), Scientific Reasoning([CS-Bench](https://arxiv.org/pdf/2406.08587)), Tool-Integrated Reasoning([Search-o1](https://arxiv.org/pdf/2501.05366))
 
-* **Retrieval Augmented Generation** 
+* **Retrieval Augmented Generation**: Preference Alignment([DPA-RAG](https://arxiv.org/pdf/2406.18676)), Instruction Following([VIF-RAG](https://arxiv.org/abs/2410.09584)), Knowledge Alignment ([SKP](https://arxiv.org/pdf/2308.14436),[ChatKBQA](https://arxiv.org/pdf/2310.08975)), Modular Tookit([FlashRAG](https://arxiv.org/pdf/2405.13576)) 
 
 My long-term goal is to explore an automated, scalable, and safe way that fosters exceptional intelligence to achieve **AGI**.
 
