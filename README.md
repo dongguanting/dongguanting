@@ -16,7 +16,7 @@ Currently, My research interests focus on
 
 * **Large Language Models Reasoning**: Mathmatics([RFT](https://arxiv.org/pdf/2308.01825), [MuggleMath](https://arxiv.org/abs/2310.05506), [DotaMath](https://arxiv.org/pdf/2407.04078)), Coding([DolphCoder](https://arxiv.org/pdf/2402.09136), [XCoder](https://arxiv.org/pdf/2409.03810)), Multimodal([AR-MCTS](https://arxiv.org/pdf/2412.14835), [We-Math](https://arxiv.org/pdf/2407.01284?)), Scientific([CS-Bench](https://arxiv.org/pdf/2406.08587)), Tool-Integrated([Search-o1](https://arxiv.org/pdf/2501.05366), [WebThinker](https://github.com/RUC-NLPIR/WebThinker))
 
-* **Retrieval Augmented Generation**: Preference Alignment([DPA-RAG](https://arxiv.org/pdf/2406.18676)), Instruction Following([VIF-RAG](https://arxiv.org/abs/2410.09584)), Reward Modeling ([RAG-Critic](https://github.com/dongguanting/RAG-Critic)， Knowledge Alignment ([SKP](https://arxiv.org/pdf/2308.14436), [ChatKBQA](https://arxiv.org/pdf/2310.08975)), Modular Tookit([FlashRAG](https://arxiv.org/pdf/2405.13576)), Emotion Recognition([InstructERC](https://arxiv.org/pdf/2309.11911))
+* **Retrieval Augmented Generation**: Preference Alignment([DPA-RAG](https://arxiv.org/pdf/2406.18676)), Instruction Following([VIF-RAG](https://arxiv.org/abs/2410.09584)), Reward Modeling ([RAG-Critic](https://github.com/dongguanting/RAG-Critic))， Knowledge Alignment ([SKP](https://arxiv.org/pdf/2308.14436), [ChatKBQA](https://arxiv.org/pdf/2310.08975)), Modular Tookit([FlashRAG](https://arxiv.org/pdf/2405.13576)), Emotion Recognition([InstructERC](https://arxiv.org/pdf/2309.11911))
 
 My long-term goal is to explore an automated, scalable, and safe way that fosters exceptional intelligence to achieve **AGI**.
 
