@@ -43,7 +43,7 @@ My long-term goal is to explore an **automated, scalable, and safe way** that fo
 - **2024-07**:🎉🎉 We release our technical report of Qwen2, a large-scale language model developed by Alibaba Group.
 
 - **2024-05**:🎉🎉 Four papers have been accepted by ACL 2024! Looking forward to seeing you in Bangkok!
--->
+
 
   
 # 🤝 Contact Me
