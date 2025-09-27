@@ -8,7 +8,7 @@
 
 #  🙋 About Me
 
-I am a first-year Ph.D. student at the Gaoling School of Artificial Intelligence, Renmin University of China, fortunate to be co-advised by [Prof. Zhicheng Dou](http://playbigdata.ruc.edu.cn/dou/) and [Prof. Ji-Rong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ&hl=zh-CN&oi=ao). Previously, I received M.Eng (2024) and B.Eng (2021) degrees in Information and Communication Engineering from Beijing University of Posts and Telecommunications(BUPT), advised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/). Before this, I was research intern at Kuaishou Klear Team, [Alibaba Qwen Team](https://github.com/QwenLM) and Meituan NLP center.
+I am a first-year Ph.D. student at the Gaoling School of Artificial Intelligence, Renmin University of China, fortunate to be co-advised by [Prof. Zhicheng Dou](http://playbigdata.ruc.edu.cn/dou/) and [Prof. Ji-Rong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ&hl=zh-CN&oi=ao). Previously, I received M.Eng (2024) and B.Eng (2021) degrees in Information and Communication Engineering from Beijing University of Posts and Telecommunications(BUPT), advised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/). Before this, I was research intern at [Kuaishou Klear Team](https://github.com/Kwai-Klear), [Alibaba Qwen Team](https://github.com/QwenLM) and Meituan NLP center.
 
 Currently, My research interests focus on
 
