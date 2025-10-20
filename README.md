@@ -12,7 +12,7 @@ I am a 2nd-year Ph.D. student at the Gaoling School of Artificial Intelligence, 
 
 Currently, My research interests focus on
 
-* **Agentic RL**: Agentic Post-training([Tool-Star](https://arxiv.org/pdf/2505.16410)) , RL algorithm ([ARPO](https://arxiv.org/abs/2507.19849),[AEPO](https://www.arxiv.org/abs/2510.14545)))
+* **Agentic RL**: Agentic Post-training([Tool-Star](https://arxiv.org/pdf/2505.16410)) , RL algorithm ([ARPO](https://arxiv.org/abs/2507.19849), [AEPO](https://www.arxiv.org/abs/2510.14545)))
 
 * **Deep Search Agent**: Deep Search & Research ([Search-o1](https://arxiv.org/pdf/2501.05366), [WebThinker](https://github.com/RUC-NLPIR/WebThinker)), Preference Alignment([DPA-RAG](https://arxiv.org/pdf/2406.18676)), Instruction Following([VIF-RAG](https://arxiv.org/abs/2410.09584)), Reward Modeling ([RAG-Critic](https://github.com/dongguanting/RAG-Critic))， Knowledge Alignment ([SKP](https://arxiv.org/pdf/2308.14436), [ChatKBQA](https://arxiv.org/pdf/2310.08975)), Modular Tookit([FlashRAG](https://arxiv.org/pdf/2405.13576)), Emotion Recognition([InstructERC](https://arxiv.org/pdf/2309.11911))
 
