@@ -13,7 +13,7 @@ I am a 2nd-year Ph.D. student at the Gaoling School of Artificial Intelligence, 
 
 I’m currently a Top Seed research intern focusing on general agent research at [Bytedance Seed](https://seed.bytedance.com/zh/). Previously, I held research intern roles with the the [Alibaba Qwen Team](https://github.com/QwenLM), [Kuaishou Klear Team](https://github.com/Kwai-Klear), and the Meituan NLP Center.
 
-Currently, My research interests focus on
+My research interests focus on
 
 * **Agentic RL**: Agentic Post-training([Tool-Star](https://arxiv.org/pdf/2505.16410)) , RL algorithm ([ARPO](https://arxiv.org/abs/2507.19849), [AEPO](https://www.arxiv.org/abs/2510.14545)))
 
