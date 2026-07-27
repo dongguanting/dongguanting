@@ -15,9 +15,9 @@ I'm currently a Top Seed research intern focusing on general agent research at [
 
 My research interests focus on
 
-* **General Agent Training**: Training long-horizon agents with scalable real-world interaction capabilities — Environment Synthesis([Agent-World](https://arxiv.org/abs/2507.19849)), Foundation Agent Models([Seed2.1](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/research/Seed-1.8-Modelcard.pdf), Seed2.0, Seed1.8), Survey([Towards Long-Horizon Agents: A Survey](https://dongguanting.github.io/))
+* **General Agent Training**: Training long-horizon agents with scalable real-world interaction capabilities — Environment Synthesis & Scaling([Agent-World](https://arxiv.org/abs/2507.19849)，[EnvScaler](https://github.com/dongguanting)), Foundation Agent Models([Seed2.1](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/research/Seed-1.8-Modelcard.pdf), Seed2.0, Seed1.8), Survey([Towards Long-Horizon Agents: A Survey](https://dongguanting.github.io/))
 
-* **Agent Harness Engineering**: Building stronger scaffolds to fully unlock frontier agent capabilities of foundation models — Omni-Modal Agent([OmniGAIA](https://github.com/dongguanting)), Tool-Integrated Reasoning([ET-Agent](https://github.com/dongguanting), [ToolScope](https://github.com/dongguanting)), Environment Scaling([EnvScaler](https://github.com/dongguanting))
+* **Agent Harness Engineering**: Building stronger scaffolds to fully unlock frontier agent capabilities of foundation models — Omni-Modal Agent([OmniGAIA](https://github.com/dongguanting)), Tool-Integrated Reasoning([ET-Agent](https://github.com/dongguanting), [ToolScope](https://github.com/dongguanting))
 
 * **Agentic Reinforcement Learning**: Training general agent intelligence via fundamental RL-based optimization — RL Algorithm([ARPO](https://arxiv.org/abs/2507.19849), [AEPO](https://www.arxiv.org/abs/2510.14545)), Agentic Post-training([Tool-Star](https://arxiv.org/pdf/2505.16410)), Query Refinement([SmartSearch](https://github.com/dongguanting))
 
